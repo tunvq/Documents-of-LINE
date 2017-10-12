@@ -125,9 +125,6 @@ columns.Add(new TemplateColumn() { Title = "Casousel 2 Title", Text = "Casousel 
 CarouselTemplate carouselTemplate = new CarouselTemplate(columns);                
 replyMessage = new TemplateMessage("Carousel", carouselTemplate);
 ```
-![alt text](https://i.imgur.com/oqgkt3T.jpg)
-
-[a relative link](README1.md)
 #### Release Note
 v1.2
   - Support Multicast
