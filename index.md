@@ -10,7 +10,3 @@ See the official API documentation for more information.
 
 English: https://devdocs.line.me/en/ <br/>
 Japanese: https://devdocs.line.me/ja/
-
-[sdfsdf](URL)
-* 
-* 
